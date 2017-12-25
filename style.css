@@ -142,7 +142,7 @@ body {
   border: 1px solid transparent;
   color: #0b0b0b;
   display: block;
-  padding: 10px 15px;
+  padding: 8px 15px;
   text-transform: uppercase;
   font-weight: 800;
 }
@@ -217,7 +217,7 @@ body {
   background: #ffffff none repeat scroll 0 0;
   display: inline-block;
   height: 25px;
-  margin-right: 10px;
+  margin-right: 8px;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   width: 2px;
@@ -231,7 +231,7 @@ body {
 }
 .homepage-slides .owl-dots div.active {
   background-color: #fc721e;
-  height: 30px;
+  min-height: 30px;
 }
 /** Service Area **/
 
